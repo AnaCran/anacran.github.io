@@ -1,6 +1,3 @@
-# anacran.github.io
-Project Website
-
 <!DOCTYPE html>
 <html>
     <head>
