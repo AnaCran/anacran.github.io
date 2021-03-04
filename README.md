@@ -6,6 +6,7 @@
         <style>
        
         #box{font-family:georgia;}
+       {background-color:rgb(206, 224, 217);}
            
             #pink {background-color:pink;padding:15px;}
             #blue {background-color:rgb(162, 210, 235);}
