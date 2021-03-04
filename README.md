@@ -4,6 +4,9 @@
         <meta charset="utf-8">
         <title>Project: Event invite</title>
         <style>
+  }       h1{font-family:helvetica}
+        body{font-family:georgia;}
+           
             #pink {background-color:pink;padding:15px;}
             #blue {background-color:rgb(162, 210, 235);}
             #lava {height: 124px;width:175px;overflow-x:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin:-166px 15px;padding:20px;float:right;}
@@ -15,6 +18,7 @@
             border-top: 10px solid pink;
             padding: 15px;
         }
+        body{font-family:georgia;}
         </style>
     </head>
     <body>
