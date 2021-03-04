@@ -7,9 +7,7 @@
             #pink {background-color:pink;padding:15px;}
             #blue {background-color:rgb(162, 210, 235);}
             #lava {height: 124px;width:175px;overflow-y:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin:-166px 15px;padding:20px;float:right;}
-            div {
-  word-wrap: break-word;
-}
+      
             #box {
             width: 400px;
             margin: auto;
@@ -20,7 +18,8 @@
         </style>
     </head>
     <body>
-        
+        <p align=left>Paragraph text.</p>
+
         <h1 id="pink">You're invited!</h1>
         <h2 id="blue">We are having a gender reveal!</h2>
         <div id="box">
