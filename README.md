@@ -18,7 +18,7 @@
         </style>
     </head>
     <body>
-        <p align=left>Paragraph text.</p>
+        <p align=left>
 
         <h1 id="pink">You're invited!</h1>
         <h2 id="blue">We are having a gender reveal!</h2>
@@ -30,7 +30,7 @@
             <li>sandwiches!</li>
             <li>kablams!</li>
             <li> a monster truck!</lI>
-        </ul>
+        </ul> </p>
         
         <img id="lava" src="https://www.kasandbox.org/programming-images/landscapes/lava.png"></div>
     </body>
