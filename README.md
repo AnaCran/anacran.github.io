@@ -24,10 +24,10 @@
     <body>
         
 
-       <h1 id="pink">You're invited!</h1>
+       <h1 id="pink">We're celebrating, you're invited!</h1>
         <h2 id="blue">We are having a gender reveal!</h2>
         <div id="box">
-        <p>We'll have:</p>
+        <p>Daddy hopes it's a boy! Mommy wants a girl! <br>We'll have:</p>
         <ul>
             <li>kabooms!</li>
             <li>kablowies!</li>
