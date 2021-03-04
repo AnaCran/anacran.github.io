@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Project: Event invite</title>
         <style>
-       {background-color:rgb(206, 224, 217);}
+       
         #box{font-family:georgia;}
       
            
@@ -21,6 +21,7 @@
             padding: 15px;
         }
         body{font-family:georgia;}
+        {background-color:rgb(206, 224, 217);}
         </style>
     </head>
     <body>
@@ -39,6 +40,6 @@
         </ul> 
         
         <img id="lava" src="https://www.kasandbox.org/programming-images/landscapes/lava.png"></div>
-        <div><img id="truck" src="https://static.wikia.nocookie.net/monstertruck/images/b/bc/Higher_education_2020.PNG/revision/latest/scale-to-width-down/400?cb=20210208211143"></div>
+        
     </body>
 
