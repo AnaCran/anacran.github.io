@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <title>Project: Event invite</title>
         <style>
-       
-        #box{font-family:georgia;}
        {background-color:rgb(206, 224, 217);}
+        #box{font-family:georgia;}
+      
            
             #pink {background-color:pink;padding:15px;}
             #blue {background-color:rgb(162, 210, 235);}
@@ -28,7 +28,7 @@
        <h1 id="pink">We're celebrating, you're invited!</h1>
         <h2 id="blue">We are having a gender reveal!</h2>
         <div id="box">
-        <p>Daddy hopes it's a boy! Mommy wants a girl! <br>We'll have:</p>
+        <p>Baby shower? How about a shrapnel bath instead? Daddy hopes it's a boy! Mommy wants a girl! <br>We'll have:</p>
         <ul>
             <li>kabooms!</li>
             <li>kablowies!</li>
