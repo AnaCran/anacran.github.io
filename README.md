@@ -29,7 +29,7 @@
             <li>kablowies!</li>
             <li>sandwiches!</li>
             <li>kablams!</li>
-            <li> a monster <br>truck!</br></lI>
+            <li> a monster <br>truck!</lI>
         </ul> 
         
         <img id="lava" src="https://www.kasandbox.org/programming-images/landscapes/lava.png"></div>
