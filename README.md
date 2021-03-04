@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Project: Event invite</title>
         <style>
-  }      #pink{font-family:helvetica;}
+  }      #pink{font-family:monospace;}
         #box{font-family:georgia;}
            
             #pink {background-color:pink;padding:15px;}
