@@ -39,6 +39,6 @@
         </ul> 
         
         <img id="lava" src="https://www.kasandbox.org/programming-images/landscapes/lava.png"></div>
-        <img id="truck" src="https://images.app.goo.gl/efTCQe2jegidtCyr7">
+        <div><img id="truck" src="https://static.wikia.nocookie.net/monstertruck/images/b/bc/Higher_education_2020.PNG/revision/latest/scale-to-width-down/400?cb=20210208211143"></div>
     </body>
 
