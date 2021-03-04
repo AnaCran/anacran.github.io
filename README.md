@@ -6,7 +6,7 @@
         <style>
             #pink {background-color:pink;padding:15px;}
             #blue {background-color:rgb(162, 210, 235);}
-            #lava {height: 124px;width:175px;overflow-y:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin:-166px 15px;padding:20px;float:right;}
+            #lava {height: 124px;width:175px;overflow-x:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin:-166px 15px;padding:20px;float:right;}
       
             #box {
             width: 400px;
@@ -18,9 +18,9 @@
         </style>
     </head>
     <body>
-        <p align=left>
+        
 
-        <h1 id="pink">You're invited!</h1>
+       <h1 id="pink">You're invited!</h1>
         <h2 id="blue">We are having a gender reveal!</h2>
         <div id="box">
         <p>We'll have:</p>
@@ -30,8 +30,8 @@
             <li>sandwiches!</li>
             <li>kablams!</li>
             <li> a monster truck!</lI>
-        </ul> </p>
+        </ul> 
         
         <img id="lava" src="https://www.kasandbox.org/programming-images/landscapes/lava.png"></div>
     </body>
-</html>
+
