@@ -1,4 +1,3 @@
-
 <html>
     <head>
         <meta charset="utf-8">
@@ -10,7 +9,8 @@
            
             #pink {background-color:pink;padding:15px;}
             #blue {background-color:rgb(162, 210, 235);}
-            #lava {height: 124px;width:175px;overflow-x:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin: 15px;padding:20px;float:right;}
+            #lava {height: 124px;width:175px;overflow-x:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin:-160px 18px;padding:20px;float:right;}
+
            
             #box {
             width: 400px;
@@ -25,7 +25,7 @@
     </head>
     <body>
         
-
+<img src="https://live.staticflickr.com/3363/3238262151_943290e713_b.jpg">
        <h1 id="pink">We're celebrating, you're invited!</h1>
         <h2 id="blue">We are having a gender reveal!</h2>
         <div id="box">
@@ -38,7 +38,7 @@
             <li> a monster <br>truck!</lI>
         </ul> 
         
-        <img id="lava" src="https://www.kasandbox.org/programming-images/landscapes/lava.png"></div>
+        <img id="lava" src="https://www.kasandbox.org/programming-images/landscapes/lava.png"><br> </div>
+
         
     </body>
-
