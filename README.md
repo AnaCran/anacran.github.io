@@ -10,8 +10,8 @@
            
             #pink {background-color:pink;padding:15px;}
             #blue {background-color:rgb(162, 210, 235);}
-            #lava {height: 124px;width:175px;overflow-x:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin:-166px 15px;padding:20px;float:right;}
-            #truck {height: 400px;width:250px;overflow-y:auto;border:12px solid rgb(20,27,61);margin-right:100px;margin:-166px 15px;padding:20px;float:right;}
+            #lava {height: 124px;width:175px;overflow-x:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin: 15px;padding:20px;float:right;}
+            #truck {height: 250px;width:400px;overflow-x:fixed;border:12px solid rgb(20,27,61);margin-right:10px;margin:-166px;padding:20px;float:right;}
       
             #box {
             width: 400px;
@@ -40,6 +40,6 @@
         </ul> 
         
         <img id="lava" src="https://www.kasandbox.org/programming-images/landscapes/lava.png"></div>
-        
+        <img id="truck" src="https://www.flickr.com/photos/34630940@N06/3238262151">
     </body>
 
