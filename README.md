@@ -6,7 +6,7 @@
         <style>
             #pink {background-color:pink;padding:15px;}
             #blue {background-color:rgb(162, 210, 235);}
-            #lava {height: 124px;width:175px;overflow-y:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin:-166px 8px;padding:15px;float:right;}
+            #lava {height: 124px;width:175px;overflow-y:auto;border:6px ridge rgb(230, 64, 14);margin-right:100px;margin:-166px 15px;padding:20px;float:right;}
             #box {
             width: 400px;
             margin: auto;
